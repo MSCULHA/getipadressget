@@ -1,1 +1,1 @@
-# getipadressget
+echo $ip_adresi = GetIP();
